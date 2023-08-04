@@ -10,7 +10,7 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 
 # Tech Stack Used
 1. Python
-2 .FastAPI
+2. FastAPI
 3. Machine learning algorithms
 4. Docker
 5. MongoDB

@@ -9,11 +9,11 @@ In this project, the system in focus is the Air Pressure system (APS) which gene
 The problem is to reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
 
 # Tech Stack Used
-Python
-FastAPI
-Machine learning algorithms
-Docker
-MongoDB
+1.Python
+2.FastAPI
+3.Machine learning algorithms
+4.Docker
+5.MongoDB
 
 # Infrastructure Required.
 AWS S3
